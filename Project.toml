@@ -1,0 +1,4 @@
+name = "MyStatsPackageNew"
+uuid = "e023c295-645e-4124-8913-7021bce353a7"
+authors = ["Jakob Steglich <steglich.jakob@outlook.de>"]
+version = "0.1.0"
