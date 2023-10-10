@@ -53,3 +53,7 @@ end
 function printOwner() 
     println("jakobstgl")
 end
+
+function printAnything()
+    println("hello")
+end

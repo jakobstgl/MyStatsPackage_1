@@ -5,4 +5,6 @@ module MyStatsPackageNew
     export rse_std
     export rse_tstat
     export printOwner
+    export printAnything
 end
+
