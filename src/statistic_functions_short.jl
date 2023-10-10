@@ -49,3 +49,7 @@ StatResult([10,500.]) # <1>
 function tstat(x)
     return StatResult(length(x),rse_tstat(x))
 end
+
+function printOwner() 
+    println("jakobstgl")
+end
